@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SuryaKumar M</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | MongoDB | Java | MySQL | 
+<h3 align="center"> 
 
 A Passionate Full Stack Developer with a focus on building dynamic, responsive, and high-performance web applications. Proficient in modern JavaScript frameworks such as React for frontend development and Node.js for backend APIs. Experienced in working with databases like MongoDB and MySQL to create seamless, scalable applications. I enjoy solving complex problems, writing clean, maintainable code, and continuously improving my skills in full stack development.</h3>
 
